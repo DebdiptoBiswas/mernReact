@@ -20,14 +20,14 @@ The table below provides information about each React task:
 
 | Task   | GitHub Link                             | Deployment Link        |
 | ------ | --------------------------------------- | ---------------------- |
-| Task 1 | [Word Counter](https://github.com/NotSoToxic/React-Task-1) | [Deployment Link 1](https://notsotoxic.github.io/React-Task-1/) |
-| Task 2 | [Calculator](https://github.com/NotSoToxic/React-Task-2)   | [Deployment Link 2](https://notsotoxic.github.io/React-Task-2/) |
-| Task 3 | [Color Picker](https://github.com/NotSoToxic/React-Task-3)  | [Deployment Link 3](https://notsotoxic.github.io/React-Task-3/) |
-| Task 4 | [Data Extracter](https://github.com/NotSoToxic/React-task-4) | [Deployment Link 4](https://notsotoxic.github.io/React-task-4/) |
-| Task 5 | [Age Calculator](https://github.com/NotSoToxic/React-Task-5) | [Deployment Link 5](https://notsotoxic.github.io/React-Task-5/) |
-| Task 6 | [Portfolio](https://github.com/NotSoToxic/Portfolio)       | [Deployment Link 6](https://portfolio-jet-mu-52.vercel.app/)  <!--unable to deploy this on gh-pages -->
+| Task 1 | [Word Counter](https://github.com/DebdiptoBiswas/mernReact1) | [Deployment Link 1](https://debdiptobiswas.github.io/mernReact1/) |
+| Task 2 | [Calculator](https://github.com/DebdiptoBiswas/mernReact2)  | [Deployment Link 2](https://debdiptobiswas.github.io/mernReact2/)|
+| Task 3 | [Color Picker](https://github.com/DebdiptoBiswas/mernReact3)  | [Deployment Link 3](https://debdiptobiswas.github.io/mernReact3/) |
+| Task 4 | [Data Extracter](https://github.com/DebdiptoBiswas/mernReact4) | [Deployment Link 4](https://debdiptobiswas.github.io/mernReact4/)|
+| Task 5 | [Age Calculator](https://github.com/DebdiptoBiswas/mernReact5) | [Deployment Link 5](https://debdiptobiswas.github.io/mernReact5/)|
+| Task 6 | [Portfolio](https://github.com/DebdiptoBiswas/portfolio)       | [Deployment Link 6](https://debdiptobiswas.github.io/portfolio/)  <!--unable to deploy this on gh-pages -->
 
 Feel free to explore the GitHub links to view the source code for each task, and visit the deployment links to see the projects in action.
 
-This project is for educational purposes and showcases React tasks created by [NotSoToxic](https://github.com/NotSoToxic).
+This project is for educational purposes and showcases React tasks created by [DebdiptoBiswas](https://github.com/DebdiptoBiswas).
 
